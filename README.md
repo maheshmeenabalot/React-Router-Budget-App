@@ -11,7 +11,7 @@ Edit or delete existing transactions
 Navigate between different pages using React Router
 Installation
 Clone this repository:
-git clone https://github.com/your-username/react-router-budget-app.git
+git clone https://github.com/maheshmeenabalot/React-Router-Budget-App.git
 
 Navigate to the project folder:
 cd react-router-budget-app
@@ -22,7 +22,7 @@ npm install
 Start the development server:
 npm run dev
 
-Open your browser and visit http://localhost:3000 to see the app in action.
+Open your browser and visit http://localhost:5173 to see the app in action.
 Usage
 Add transactions by clicking the “Add Transaction” button.
 Edit or delete transactions by clicking the corresponding buttons.
