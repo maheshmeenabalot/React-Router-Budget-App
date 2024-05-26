@@ -1,14 +1,20 @@
-React Router Budget App
-!Project Logo <!-- Replace with your project logo or relevant image -->
+# Project Title: Home Budget App
 
-Description
-The React Router Budget App is a simple budget management application built using React and React Router. It allows users to track their income, expenses, and overall budget. The app provides a user-friendly interface for adding, editing, and deleting transactions.
+## Overview
+Home Budget is a web application designed to help users manage their personal finances effectively. It provides tools for budget creation, expense tracking, and financial reporting.
 
-Features
-Add income and expense transactions
-View a summary of total income, expenses, and remaining budget
-Edit or delete existing transactions
-Navigate between different pages using React Router
+## Features
+- **Create Budget**: Users can create customizable budgets.
+- **Track Expenses**: Keep track of your expenses by linking them directly to budgets.
+- **Visualize Spending**: Includes graphical representations of spending and budget allocations.
+
+## Tech Stack
+- **HTML/CSS**: For layout and styling.
+- **JavaScript**: Functionality provided by helper functions in `helpers.js`.
+- **React**: Utilized for responsive front-end architecture.
+
+## Setup and Installation
+
 Installation
 Clone this repository:
 git clone https://github.com/maheshmeenabalot/React-Router-Budget-App.git
