@@ -1,6 +1,6 @@
 # Home Budget App
+![studybud 26-05-2024 23_10_30](https://github.com/maheshmeenabalot/React-Router-Budget-App/assets/128252442/af3688f4-a638-4f30-a1a0-e7ed8fc5a7ee)
 
-!Project Logo <!-- Replace with your project logo or relevant image -->
 
 ## Overview
 Home Budget is a web application designed to help users manage their personal finances effectively. It provides tools for budget creation, expense tracking, and financial reporting.
